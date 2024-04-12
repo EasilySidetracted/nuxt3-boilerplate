@@ -1,5 +1,5 @@
 <template>
   <container>
-    <UAlert title="tHIS IS A LINKBOX" />
+    <UAlert title="This is an example linkbox." />
   </container>
 </template>
